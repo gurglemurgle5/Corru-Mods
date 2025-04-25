@@ -1,0 +1,36 @@
+{
+    "name": "corru.observer",
+    "icons": [
+        {
+            "src": "http://localhost:8080/fav192.gif",
+            "type": "image/gif",
+            "sizes": "192x192"
+        },
+        {
+            "src": "http://localhost:8080/fav512.gif",
+            "type": "image/gif",
+            "sizes": "512x512"
+        },
+        {
+            "src": "http://localhost:8080/fav192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ],
+    "start_url": "https://corru.observer",
+    "display": "fullscreen",
+    "display_override": [
+        "fullscreen",
+        "standalone",
+        "minimal-ui",
+        "browser"
+    ],
+    "screenshots": [
+        {
+            "src": "https://corru.observer/img/socials/intro.gif",
+            "sizes": "600x400",
+            "type": "image/gif",
+            "form_factor": "wide"
+        }
+    ]
+}
