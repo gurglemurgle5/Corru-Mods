@@ -15,6 +15,11 @@
             "src": "https://corru.gurglemurgle.dev/fav192.png",
             "type": "image/png",
             "sizes": "192x192"
+        },
+        {
+            "src": "https://corru.gurglemurgle.dev/fav512.png",
+            "type": "image/gif",
+            "sizes": "512x512"
         }
     ],
     "start_url": "https://corru.observer",
